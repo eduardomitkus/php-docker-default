@@ -4,3 +4,5 @@ O que é utilizado:
 
 - Nginx: Servidor HTTP
 - PHP-FPM: Gerenciador de processos do PHP
+
+*ambiente de desenvolvimento
